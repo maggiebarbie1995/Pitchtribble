@@ -1,0 +1,71 @@
+.cool {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.61), rgba(0, 0, 0, 0.61)), url("https://i.pinimg.com/originals/d4/54/ba/d454bada089f419c4bf315b8f415e2f2.jpg");
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+    color: white;
+    position: fixed;
+  }
+  
+  .intro {
+    padding-top: 200px;
+    text-align: center;
+    padding-bottom: 370px;
+  }
+  
+  .welcome {
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-style: italic;
+    font-size: 70px;
+  }
+  
+  .home {
+    font-size: 40px;
+    font-family: 'Srisakdi', cursive;
+    padding-bottom: 15px;
+  }
+  
+  .cat {
+    font-size: 20px;
+    padding-top: 15px;
+  }
+  
+  .para {
+    font-size: 30px;
+  }
+  
+  .view {
+    font-size: 20px;
+  }
+  
+  .log {
+    font-size: 15px;
+  }
+  
+  .category {
+    font-size: 15px;
+  }
+  
+  .set {
+    font-size: 20px;
+  }
+  
+  .pitch-form {
+    font-size: 25px;
+  }
+  
+  .real {
+    font-size: 10px;
+  }
+  
+  .he {
+    font-size: 20px;
+  }
+  
+  .ho {
+    font-size: 30px;
+  }
+  
+  .rel {
+    font-size: 20px;
+  }
