@@ -1,4 +1,3 @@
-from app import app
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from flask_login import LoginManager
@@ -21,7 +20,7 @@ simple = SimpleMDE()
 
 def create_app(config_name):
     
-    app = Flask(_name_)
+    app = Flask(__name__)
     
   
     #app.config.from_object(config_options[config_name])
